@@ -81,4 +81,3 @@ if __name__ == '__main__':
                 exit()
             elif user_choice2 == "c":
                 continue 
-### correction __init__, __main__, __name_
